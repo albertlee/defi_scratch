@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AlbertLee 5/13/2022 21:45",
+	"super" : "Object",
+	"category" : "DefiScratch",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DsActionBlock",
+	"type" : "normal"
+}

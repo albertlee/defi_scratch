@@ -1,0 +1,4 @@
+accessing
+decimals
+
+	^ decimals

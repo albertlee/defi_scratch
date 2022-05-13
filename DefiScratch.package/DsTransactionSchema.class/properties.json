@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "AlbertLee 5/13/2022 21:19",
+	"super" : "Object",
+	"category" : "DefiScratch",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"addressDicts"
+	],
+	"name" : "DsTransactionSchema",
+	"type" : "normal"
+}

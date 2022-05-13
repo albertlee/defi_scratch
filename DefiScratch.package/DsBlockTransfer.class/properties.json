@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DsActionBlock",
+	"category" : "DefiScratch",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DsBlockTransfer",
+	"type" : "normal"
+}
